@@ -1,0 +1,48 @@
+.body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.red{
+color: red;
+}
+
+.BL{
+    color: black;
+}
+
+.div{
+    
+}
+
+.Outter_Div{
+    width: 1062.5px; 
+    height: 1375px; 
+    border: 2px solid black ; 
+    margin: auto; 
+    box-shadow: 3px 3px 4px black;
+}
+
+.Inner_Div{
+    margin: 62.5px 156.25px;
+    color: #6f7378;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h1{
+    color:black
+}
+
+.line{
+    height: 5px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.sub-head{
+    display: inline-block;
+}
+
+.sub-head-red{
+    display: inline-block;
+    color: red;
+}
